@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    background-color: blue;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: brown;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+.main{
+    color:purple
+}
